@@ -16,12 +16,24 @@ tabela_menor[['GASTO','ID']].head(10)
 print(tabela_menor)
 
 
-# PLOTANDO OS 10 MAIS
+# PLOTANDO OS MAIS
 plt.rcParams['xtick.labelsize'] = 8
 plt.title('OS 10 DEPUTADOS QUE MAIS GASTARAM EM 09/2019')
-x = (tabela_maior['NOME'])
-plt.xlabel('NOME DO DEPUTADO')
-y = (tabela_maior['GASTO'])
-plt.ylabel('GASTOS EM R$')
-plt.bar(x, y, color="black")
+x = (tabela_maior['NOME'].head(10))
+plt.ylabel('NOME DO DEPUTADO')
+y = (tabela_maior['GASTO'].head(10))
+plt.xlabel('GASTOS EM R$')
+plt.barh(x, y, color="black")
+plt.show()
+
+
+# PLOTANDO OS MENOS
+plt.rcParams['xtick.labelsize'] = 8
+plt.rcParams['figure.figsize'] = (12, 10)
+plt.title('OS 10 DEPUTADOS QUE MAIS GASTARAM EM 09/2019')
+x = (tabela_menor['NOME'].head(10))
+plt.ylabel('NOME DO DEPUTADO')
+y = (tabela_menor['GASTO'].head(10))
+plt.xlabel('GASTOS EM R$')
+plt.barh(x, y, color="black")
 plt.show()
