@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-PLANILHA = pd.read_csv("NOME_ID_TOTAL.csv", encoding='latin-1')
+PLANILHA = pd.read_csv("NOME_ID_TOTAL.csv", encoding='latin-1', sep=';')
 
 print("PARA TABELA COM OS 10 DEPUTADOS MAIS GASTÕES   = 1 \nPARA TABELA COM OS 10 DEPUTADOS MENOS GASTÕES  = 2 \n"
       "PARA GRAFICO COM OS 10 DEPUTADOS MAIS GASTÕES  = 3 \nPARA GRAFICO COM OS 10 DEPUTADOS MENOS GASTÕES = 4\n"
