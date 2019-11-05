@@ -3,9 +3,6 @@ import requests
 url = 'https://dadosabertos.camara.leg.br/api/v2/deputados'
 resp = requests.get(url).json()
 
-aux = 0.0
-total = 0.0
-
 file_csv = open('NOME_ID_TOTAL.csv', 'w')  # criando arquivo csv para escrever nome, ID, e total de gastos de cada deputado
 
 for d in resp['dados']: # for usado para buscar nome, id e as diversas despesas de cada deputado
