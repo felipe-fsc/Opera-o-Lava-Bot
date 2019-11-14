@@ -43,7 +43,21 @@ que disponibilize as informações necessarias;
 focos de onde se precisa trabalhar para que os recursos públicos sejam utilizados 
 de forma mais eficiente.
 
+********* Desenvolvimento *********
 
+Front End:
+- Programa desenvolvido nas linguagens Html, Css e Javascript
+- A estrutura do Html será utilizada para criar a interface que será utilizada pelo usuário
+- Alguns recursos de Css serão utilizados para melhorar a aparência da página e definir o alinhamento e tamanho de fonte do que será mostrado pela aplicação
+- Os recursos do Javascript terão funções de redirecionamento no clique dos botões ou na escolha de alguma opção e de associar essa escolha à parte correspondente do programa
+
+Back End:
+- Programa desenvolvido em linguagem Python
+- É necessário a instalação das bibliotecas request, pandas e matplotlib
+- A biblioteca request fará a raspagem de dados através da api dos sites do Portal da Transparência e dos dados abertos da câmara dos deputados
+- As informações obtidas na raspagem serão armazenadas em um documento csv
+- Serão inseridas funções para que os valores listados sejam ordenados e apareceram para o usuário de acordo com o critério de pesquisa que ele escolher
+- Os recursos da biblioteca Matplotlib serão utilizados para que o usuário possa escolher se os resultados serão mostrados em forma de tabela ou de gráfico.
 
 
 
