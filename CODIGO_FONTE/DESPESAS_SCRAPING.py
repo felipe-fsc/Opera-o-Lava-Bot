@@ -47,8 +47,8 @@ while CONTADOR <= 9:
     CONTADOR = CONTADOR + 1
     GUIA_SOMA = GUIA_SOMA + 1
 
-    for politico in politicos:
-        dados = (';'.join(map(str, politicos[politico])))
-        print(dados)
+for politico in politicos:
+    dados = (';'.join(map(str, politicos[politico])))
+    print(dados)
     FILE_CSV.writelines(dados)
 
