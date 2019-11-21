@@ -44,6 +44,28 @@ focos de onde se precisa trabalhar para que os recursos públicos sejam utilizad
 de forma mais eficiente.
 
 
+******** Desenvolvimento *******
+A parte dianteira:
+
+Programa desenvolvido nas linguagens Html, Css e Javascript
+Uma estrutura do Html será criada para criar uma interface que será usada pelo usuário
+Alguns recursos de Css serão usados para melhorar a exibição da página e definir o alinhamento e tamanho da fonte que será mostrada pela aplicação
+Os recursos Javascript exibem funções de redirecionamento sem clique nos botões ou na opção de alguma opção e associam essa escolha a parte correspondente ao programa
 
 
+Back End:
 
+
+Programa desenvolvido em linguagem Python
+Uma solicitação de biblioteca faz a raspagem de dados através da API do site de dados abertos da câmara dos deputados
+As informações incluídas na raspagem serão armazenadas em um arquivo csv
+utiliza uma biblioteca de pandas para tratamento de arquivo, sendo ordenada e exibida para o usuário de acordo com o critério de pesquisa que ele escolheu
+Os recursos da biblioteca Matplotlib serão utilizados para que o usuário possa visualizar os dados em forma de gráfico.
+
+PARA EXECUTAR O PROJETO
+
+
+Para começar a importar como bibliotecas "request" e "os" e executar o primeiro código (DEPESAS_SCRAPING.py)
+Este código faz a raspagem dos dados e a criação dos arquivos para análise
+Importe posteriormente como bibliotecas pandas e matplotlib e execute o segundo codigo (ANALISE_DAS_DESPESAS.py)
+Este é o código que permite o tratamento e a impressão dos dados ao usuário, as instruções são usadas durante a execução
