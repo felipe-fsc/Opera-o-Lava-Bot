@@ -43,7 +43,8 @@ que disponibilize as informações necessarias;
 focos de onde se precisa trabalhar para que os recursos públicos sejam utilizados 
 de forma mais eficiente.
 
-********* Desenvolvimento *********
+
+******** Desenvolvimento*******
 
 Front End:
 - Programa desenvolvido nas linguagens Html, Css e Javascript
@@ -53,11 +54,17 @@ Front End:
 
 Back End:
 - Programa desenvolvido em linguagem Python
-- É necessário a instalação das bibliotecas request, pandas e matplotlib
-- A biblioteca request fará a raspagem de dados através da api dos sites do Portal da Transparência e dos dados abertos da câmara dos deputados
-- As informações obtidas na raspagem serão armazenadas em um documento csv
-- Serão inseridas funções para que os valores listados sejam ordenados e apareceram para o usuário de acordo com o critério de pesquisa que ele escolher
-- Os recursos da biblioteca Matplotlib serão utilizados para que o usuário possa escolher se os resultados serão mostrados em forma de tabela ou de gráfico.
+- A biblioteca request fará a raspagem de dados através da api do site dos dados abertos da câmara dos deputados
+- As informações obtidas na raspagem serão armazenadas em um arquivo csv
+- utilizamos a biblioteca pandas para o tratamento do arquivo, sendo ordenados e aparecerem para o usuário de acordo com o critério de pesquisa que ele escolher
+- Os recursos da biblioteca Matplotlib serão utilizados para que o usuário possa visualizar os dados em forma de gráfico.
 
+
+***********PARA EXECUTAR O PROJETO***************
+
+- Para começar importe as bibliotecas "request" e "os" e execute o primeiro codigo (DEPESAS_SCRAPING.py)
+- Este codigo fara a raspagem dos dados e a criação dos arquivos para analise
+- Posteriormente importe as bibliotecas pandas e matplotlib e execute o segundo codigo (ANALISE_DAS_DESPESAS.py)
+- Este é o codigo que fara o tratamento e a impressão dos dados ao usuario, instruções são exibidas durante a execução.
 
 
