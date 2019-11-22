@@ -60,9 +60,15 @@ Back End:
 - Os recursos da biblioteca Matplotlib serão utilizados para que o usuário possa visualizar os dados em forma de gráfico.
 
 
-***********PARA EXECUTAR O PROJETO***************
+**PARA EXECUTAR O PROJETO**
 
-- Para começar importe as bibliotecas "request" e "os" e execute o primeiro codigo (DEPESAS_SCRAPING.py)
+- Para começar, entre na pasta do projeto "operacao-lava-bot" e execute o seguinte comando:
+    ```
+    pip install -r requirements.txt
+    ```
+- O comando acima importará as bibliotecas "request" e "os" utilizadas no projeto
+ 
+- Execute o primeiro codigo (DEPESAS_SCRAPING.py)
 - Este codigo fara a raspagem dos dados e a criação dos arquivos para analise
 - Posteriormente importe as bibliotecas pandas e matplotlib e execute o segundo codigo (ANALISE_DAS_DESPESAS.py)
 - Este é o codigo que fara o tratamento e a impressão dos dados ao usuario, instruções são exibidas durante a execução.
