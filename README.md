@@ -68,3 +68,19 @@ Back End:
 - Este é o codigo que fara o tratamento e a impressão dos dados ao usuario, instruções são exibidas durante a execução.
 
 
+Back End:
+
+
+Programa desenvolvido em linguagem Python
+Uma solicitação de biblioteca faz a raspagem de dados através da API do site de dados abertos da câmara dos deputados
+As informações incluídas na raspagem serão armazenadas em um arquivo csv
+utiliza uma biblioteca de pandas para tratamento de arquivo, sendo ordenada e exibida para o usuário de acordo com o critério de pesquisa que ele escolheu
+Os recursos da biblioteca Matplotlib serão utilizados para que o usuário possa visualizar os dados em forma de gráfico.
+
+PARA EXECUTAR O PROJETO
+
+
+Para começar a importar como bibliotecas "request" e "os" e executar o primeiro código (DEPESAS_SCRAPING.py)
+Este código faz a raspagem dos dados e a criação dos arquivos para análise
+Importe posteriormente como bibliotecas pandas e matplotlib e execute o segundo codigo (ANALISE_DAS_DESPESAS.py)
+Este é o código que permite o tratamento e a impressão dos dados ao usuário, as instruções são usadas durante a execução
