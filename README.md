@@ -44,13 +44,28 @@ focos de onde se precisa trabalhar para que os recursos públicos sejam utilizad
 de forma mais eficiente.
 
 
-******** Desenvolvimento *******
-A parte dianteira:
+******** Desenvolvimento*******
 
-Programa desenvolvido nas linguagens Html, Css e Javascript
-Uma estrutura do Html será criada para criar uma interface que será usada pelo usuário
-Alguns recursos de Css serão usados para melhorar a exibição da página e definir o alinhamento e tamanho da fonte que será mostrada pela aplicação
-Os recursos Javascript exibem funções de redirecionamento sem clique nos botões ou na opção de alguma opção e associam essa escolha a parte correspondente ao programa
+Front End:
+- Programa desenvolvido nas linguagens Html, Css e Javascript
+- A estrutura do Html será utilizada para criar a interface que será utilizada pelo usuário
+- Alguns recursos de Css serão utilizados para melhorar a aparência da página e definir o alinhamento e tamanho de fonte do que será mostrado pela aplicação
+- Os recursos do Javascript terão funções de redirecionamento no clique dos botões ou na escolha de alguma opção e de associar essa escolha à parte correspondente do programa
+
+Back End:
+- Programa desenvolvido em linguagem Python
+- A biblioteca request fará a raspagem de dados através da api do site dos dados abertos da câmara dos deputados
+- As informações obtidas na raspagem serão armazenadas em um arquivo csv
+- utilizamos a biblioteca pandas para o tratamento do arquivo, sendo ordenados e aparecerem para o usuário de acordo com o critério de pesquisa que ele escolher
+- Os recursos da biblioteca Matplotlib serão utilizados para que o usuário possa visualizar os dados em forma de gráfico.
+
+
+***********PARA EXECUTAR O PROJETO***************
+
+- Para começar importe as bibliotecas "request" e "os" e execute o primeiro codigo (DEPESAS_SCRAPING.py)
+- Este codigo fara a raspagem dos dados e a criação dos arquivos para analise
+- Posteriormente importe as bibliotecas pandas e matplotlib e execute o segundo codigo (ANALISE_DAS_DESPESAS.py)
+- Este é o codigo que fara o tratamento e a impressão dos dados ao usuario, instruções são exibidas durante a execução.
 
 
 Back End:
