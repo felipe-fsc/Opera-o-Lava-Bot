@@ -1,0 +1,14 @@
+TELEFONIA = 15.93   (None)
+Emissão Bilhete Aéreo = 1400.85   (2019-03-01)
+Emissão Bilhete Aéreo = 704.39   (2019-03-07)
+Emissão Bilhete Aéreo = 1870.85   (2019-03-15)
+Emissão Bilhete Aéreo = 1491.39   (2019-03-15)
+Emissão Bilhete Aéreo = 1400.85   (2019-03-15)
+Emissão Bilhete Aéreo = 1867.39   (2019-03-22)
+Emissão Bilhete Aéreo = 1400.85   (2019-03-22)
+Emissão Bilhete Aéreo = 1397.39   (2019-03-22)
+Emissão Bilhete Aéreo = 1077.85   (2019-03-29)
+Emissão Bilhete Aéreo = 394.0   (2019-03-29)
+TOTAL DE DESPESAS = 13021.74
+PARTIDO DEPUTADO = PSL
+UF DEPUTADO = SP

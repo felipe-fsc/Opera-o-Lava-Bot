@@ -1,0 +1,15 @@
+CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS. = 6000.0   (2019-06-19)
+TELEFONIA = 48.33   (2019-08-13)
+TELEFONIA = 47.07   (None)
+Emissão Bilhete Aéreo = 449.0   (2019-06-04)
+Emissão Bilhete Aéreo = 156.0   (2019-06-06)
+Emissão Bilhete Aéreo = 176.46   (2019-06-06)
+Emissão Bilhete Aéreo = 556.0   (2019-06-06)
+Emissão Bilhete Aéreo = 9.85   (2019-06-19)
+Emissão Bilhete Aéreo = 997.39   (2019-06-19)
+Emissão Bilhete Aéreo = 1123.85   (2019-06-19)
+Emissão Bilhete Aéreo = 772.39   (2019-06-19)
+Emissão Bilhete Aéreo = 963.39   (2019-06-19)
+TOTAL DE DESPESAS = 11299.73
+PARTIDO DEPUTADO = PSL
+UF DEPUTADO = SP

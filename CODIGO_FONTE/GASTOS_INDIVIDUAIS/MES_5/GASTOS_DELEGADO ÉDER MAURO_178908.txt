@@ -1,0 +1,15 @@
+DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR. = 18000.0   (2019-05-30)
+TELEFONIA = 43.08   (None)
+SERVIÇOS POSTAIS = 41.21   (2019-05-20)
+LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES = 8000.0   (2019-06-03)
+Emissão Bilhete Aéreo = 760.85   (2019-05-16)
+Emissão Bilhete Aéreo = 1026.35   (2019-05-28)
+Emissão Bilhete Aéreo = 920.85   (2019-05-23)
+Emissão Bilhete Aéreo = 393.39   (2019-05-10)
+Emissão Bilhete Aéreo = 680.85   (2019-05-10)
+Emissão Bilhete Aéreo = 501.39   (2019-05-10)
+Emissão Bilhete Aéreo = 427.85   (2019-05-10)
+Emissão Bilhete Aéreo = 424.39   (2019-05-10)
+TOTAL DE DESPESAS = 31220.21
+PARTIDO DEPUTADO = PSD
+UF DEPUTADO = PA

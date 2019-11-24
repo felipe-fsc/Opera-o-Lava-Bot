@@ -1,0 +1,10 @@
+MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR = 450.0   (2019-09-02)
+TELEFONIA = 325.5   (None)
+Emissão Bilhete Aéreo = 471.85   (2019-08-15)
+Emissão Bilhete Aéreo = 1092.85   (2019-08-29)
+Emissão Bilhete Aéreo = 498.57   (2019-08-09)
+Emissão Bilhete Aéreo = 609.95   (2019-08-08)
+Emissão Bilhete Aéreo = 887.9   (2019-08-27)
+TOTAL DE DESPESAS = 4336.62
+PARTIDO DEPUTADO = PODE
+UF DEPUTADO = GO

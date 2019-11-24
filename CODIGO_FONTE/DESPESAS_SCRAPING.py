@@ -10,7 +10,6 @@ FILE_CSV = open('NOME_ID_TOTAL.csv', 'w')  # criando arquivo csv para escrever n
 
 CONTADOR = 2
 GUIA_SOMA = 2
-SOM = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 politicos = {}
 
 while CONTADOR <= 9:
@@ -41,7 +40,7 @@ while CONTADOR <= 9:
             SOMA = float("%.2f" %SOMA)
             CONTADOR = int(CONTADOR)
 
-        FILE_TXT.writelines("TOTAL DE DESPESAS = " + str(SOM) + '\n' "PARTIDO DEPUTADO = " + PARTIDO_DEPUTADO + '\n' "UF DEPUTADO = " + UF_DEPUTADO)    #escrevendo o total de despesas no arquivo txt
+        FILE_TXT.writelines("TOTAL DE DESPESAS = " + str(SOMA) + '\n' "PARTIDO DEPUTADO = " + PARTIDO_DEPUTADO + '\n' "UF DEPUTADO = " + UF_DEPUTADO)    #escrevendo o total de despesas no arquivo txt
 
         if NOME_DEPUTADO in politicos:
             politicos[NOME_DEPUTADO].append(SOMA)
