@@ -1,0 +1,15 @@
+MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR = 104.4   (2019-06-11)
+TELEFONIA = 13.59   (None)
+SERVIÇOS POSTAIS = 7.7   (2019-06-06)
+Emissão Bilhete Aéreo = 1793.39   (2019-06-27)
+Emissão Bilhete Aéreo = -785.25   (2019-06-11)
+Emissão Bilhete Aéreo = 1519.24   (2019-06-06)
+Emissão Bilhete Aéreo = 1345.24   (2019-06-18)
+Emissão Bilhete Aéreo = 1703.39   (2019-06-24)
+Emissão Bilhete Aéreo = 977.2   (2019-06-24)
+Emissão Bilhete Aéreo = 1196.37   (2019-06-24)
+Emissão Bilhete Aéreo = 1470.0   (2019-06-27)
+Emissão Bilhete Aéreo = 139.0   (2019-06-27)
+TOTAL DE DESPESAS = 9484.27
+PARTIDO DEPUTADO = DEM
+UF DEPUTADO = SP

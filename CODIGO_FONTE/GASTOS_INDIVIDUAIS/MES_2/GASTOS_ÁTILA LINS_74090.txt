@@ -1,0 +1,14 @@
+PASSAGENS AÉREAS = 7223.55   (2019-01-10)
+TELEFONIA = 163.9   (None)
+TELEFONIA = 2140.36   (2019-02-08)
+TELEFONIA = 683.66   (2019-02-18)
+Emissão Bilhete Aéreo = 3493.24   (2019-02-26)
+Emissão Bilhete Aéreo = 3404.24   (2019-02-11)
+Emissão Bilhete Aéreo = 1046.84   (2019-02-14)
+Emissão Bilhete Aéreo = 3578.56   (2019-02-05)
+Emissão Bilhete Aéreo = 1247.39   (2019-02-14)
+Emissão Bilhete Aéreo = 882.84   (2019-02-15)
+Emissão Bilhete Aéreo = 180.0   (2019-02-21)
+TOTAL DE DESPESAS = 24044.58
+PARTIDO DEPUTADO = PP
+UF DEPUTADO = AM

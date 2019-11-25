@@ -1,0 +1,17 @@
+COMBUSTÍVEIS E LUBRIFICANTES. = 3782.0   (2019-03-08)
+DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR. = 18000.0   (2019-03-21)
+TELEFONIA = 18.36   (None)
+LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES = 8000.0   (2019-04-02)
+Emissão Bilhete Aéreo = 1629.39   (2019-03-20)
+Emissão Bilhete Aéreo = 1824.39   (2019-03-14)
+Emissão Bilhete Aéreo = 460.85   (2019-03-12)
+Emissão Bilhete Aéreo = 457.39   (2019-03-12)
+Emissão Bilhete Aéreo = 460.85   (2019-03-12)
+Emissão Bilhete Aéreo = 457.39   (2019-03-12)
+Emissão Bilhete Aéreo = 460.85   (2019-03-12)
+Emissão Bilhete Aéreo = 591.39   (2019-03-12)
+Emissão Bilhete Aéreo = 594.85   (2019-03-12)
+Emissão Bilhete Aéreo = 457.39   (2019-03-12)
+TOTAL DE DESPESAS = 37195.1
+PARTIDO DEPUTADO = PSD
+UF DEPUTADO = PA

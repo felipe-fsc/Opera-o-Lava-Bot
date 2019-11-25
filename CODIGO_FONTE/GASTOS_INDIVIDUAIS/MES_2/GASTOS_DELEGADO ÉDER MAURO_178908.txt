@@ -1,0 +1,17 @@
+CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS. = 18328.0   (2019-02-06)
+CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS. = 17950.0   (2019-02-25)
+TELEFONIA = 48.64   (None)
+LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES = 8000.0   (2019-03-11)
+Emissão Bilhete Aéreo = 1025.79   (2019-02-14)
+Emissão Bilhete Aéreo = 1484.85   (2019-02-12)
+Emissão Bilhete Aéreo = 1851.39   (2019-02-21)
+Emissão Bilhete Aéreo = 460.85   (2019-02-15)
+Emissão Bilhete Aéreo = 457.39   (2019-02-15)
+Emissão Bilhete Aéreo = 460.85   (2019-02-15)
+Emissão Bilhete Aéreo = 457.39   (2019-02-15)
+Emissão Bilhete Aéreo = 460.85   (2019-02-15)
+Emissão Bilhete Aéreo = 457.39   (2019-02-15)
+Emissão Bilhete Aéreo = 1176.9   (2019-02-22)
+TOTAL DE DESPESAS = 52620.29
+PARTIDO DEPUTADO = PSD
+UF DEPUTADO = PA

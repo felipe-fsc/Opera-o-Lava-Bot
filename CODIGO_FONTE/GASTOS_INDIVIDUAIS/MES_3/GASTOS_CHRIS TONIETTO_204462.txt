@@ -1,0 +1,17 @@
+MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR = 2970.45   (2019-04-05)
+TELEFONIA = 0.96   (None)
+Emissão Bilhete Aéreo = 788.99   (2019-03-01)
+Emissão Bilhete Aéreo = 827.45   (2019-03-01)
+Emissão Bilhete Aéreo = 788.99   (2019-03-01)
+Emissão Bilhete Aéreo = 827.45   (2019-03-01)
+Emissão Bilhete Aéreo = 918.99   (2019-03-19)
+Emissão Bilhete Aéreo = 919.85   (2019-03-19)
+Emissão Bilhete Aéreo = 918.99   (2019-03-19)
+Emissão Bilhete Aéreo = 919.85   (2019-03-19)
+Emissão Bilhete Aéreo = 674.49   (2019-03-19)
+Emissão Bilhete Aéreo = 1848.64   (2019-03-27)
+Emissão Bilhete Aéreo = 1240.64   (2019-03-27)
+Emissão Bilhete Aéreo = 730.25   (2019-03-27)
+TOTAL DE DESPESAS = 14375.99
+PARTIDO DEPUTADO = PSL
+UF DEPUTADO = RJ

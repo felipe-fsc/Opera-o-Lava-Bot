@@ -1,0 +1,16 @@
+COMBUSTÍVEIS E LUBRIFICANTES. = 1693.0   (2019-08-06)
+TELEFONIA = 42.72   (None)
+LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES = 2500.0   (2019-09-10)
+Emissão Bilhete Aéreo = 729.57   (2019-08-15)
+Emissão Bilhete Aéreo = 777.57   (2019-08-15)
+Emissão Bilhete Aéreo = 580.57   (2019-08-15)
+Emissão Bilhete Aéreo = -693.44   (2019-08-30)
+Emissão Bilhete Aéreo = 1787.85   (2019-08-05)
+Emissão Bilhete Aéreo = 754.85   (2019-08-15)
+Emissão Bilhete Aéreo = 328.0   (2019-08-15)
+Emissão Bilhete Aéreo = 617.85   (2019-08-15)
+Emissão Bilhete Aéreo = 617.85   (2019-08-15)
+Emissão Bilhete Aéreo = 1810.57   (2019-08-28)
+TOTAL DE DESPESAS = 11546.96
+PARTIDO DEPUTADO = PSD
+UF DEPUTADO = PA

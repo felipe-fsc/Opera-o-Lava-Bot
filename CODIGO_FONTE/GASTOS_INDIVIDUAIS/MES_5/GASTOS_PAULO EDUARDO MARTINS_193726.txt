@@ -1,0 +1,16 @@
+COMBUSTÍVEIS E LUBRIFICANTES. = 241.15   (2019-05-06)
+COMBUSTÍVEIS E LUBRIFICANTES. = 215.0   (2019-05-28)
+TELEFONIA = 59.57   (None)
+Emissão Bilhete Aéreo = 962.39   (2019-05-16)
+Emissão Bilhete Aéreo = 487.49   (2019-05-22)
+Emissão Bilhete Aéreo = 532.85   (2019-05-30)
+Emissão Bilhete Aéreo = 872.49   (2019-05-22)
+Emissão Bilhete Aéreo = 872.49   (2019-05-21)
+Emissão Bilhete Aéreo = 1270.39   (2019-05-30)
+Emissão Bilhete Aéreo = 117.15   (2019-05-31)
+Emissão Bilhete Aéreo = 592.0   (2019-05-16)
+Emissão Bilhete Aéreo = 364.85   (2019-05-21)
+Emissão Bilhete Aéreo = 699.39   (2019-05-21)
+TOTAL DE DESPESAS = 7287.21
+PARTIDO DEPUTADO = PSC
+UF DEPUTADO = PR
